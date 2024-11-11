@@ -1,0 +1,31 @@
+
+header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: #010724e7;
+    border: #e67f0a solid;
+    color: #ffffff;
+}
+
+li{
+    padding: 5px;
+}
+
+div{
+    margin-left: 30px;
+    color: white;
+}
+
+#sobre{
+    font-size: 19px;
+    text-align: left;
+    max-width: 500px;
+    margin-top: 90px;
+    margin-bottom: 80px;
+    
+}
+
+#p2{
+    max-width: 500px;
+    font-size: 19px;
+}
